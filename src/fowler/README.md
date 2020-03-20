@@ -9,3 +9,4 @@ Semua test case dalam repository ini menggunakan JUnit 5.
 ### Penjelasan Smell
 
 - [Object-Orientation Abusers](oo_abusers)
+- [Dispensables](dispensables)

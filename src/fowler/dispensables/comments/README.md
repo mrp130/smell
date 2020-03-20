@@ -6,7 +6,7 @@
 
 Nama method atau atribut haruslah sudah self-explain tanpa harus diberi comment. Begitu juga logic flow di dalam fungsi. Bila logic flow perlu dijelaskan, dapat dipertimbangkan code tersebut sebagai bagian dari smell Long Method dan perlu di-extract.
 
-Comment boleh diberikan sebagai dokumentasi. Contohnya untuk  [Javadoc](https://www.tutorialspoint.com/java/java_documentation.htm) menggunakan `/** */`. Sedangkan comment biasa yang dihindari menggunakan `//` untuk single line atau `/* */` untuk multiline.
+Comment boleh diberikan sebagai dokumentasi. Contohnya untuk bahasa pemrograman Java, digunakan [Javadoc](https://www.tutorialspoint.com/java/java_documentation.htm) menggunakan `/** */` sebagai dokumentasi. Penggunaan `//` untuk single line atau `/* */` untuk multiline dihindari.
 
 ```java
 /**
