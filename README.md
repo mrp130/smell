@@ -5,11 +5,12 @@ Materi COMP6106 bersumber dari:
 
 ### Martin Fowler
 
+[Klik disini untuk pembahasan smell Martin Fowler](src/fowler)
+
 Buku: Fowler, Martin. Refactoring: improving the design of existing code. Addison-Wesley Professional, 2018.
 
 Code smell dari Martin Fowler akan dipelajari dan diuji di UTS. Code smell dari Martin Fowler sudah disadur di website [sourcemaking](https://sourcemaking.com/refactoring).
 
-[Penjelasan Smell Martin Fowler](src/fowler)
 
 ### Girish Suryanarayana, Ganesh Samarthyam and Tushar Sharma
 

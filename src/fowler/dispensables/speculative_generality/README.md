@@ -10,6 +10,8 @@ Biasanya karena programmer sok ide, berspekulasi, bahwa ini akan dibutuhkan. Nam
 
 Hal ini tentunya menjadi masalah karena kita membuat code lebih sulit dibaca untuk hal yang tidak perlu.
 
+Salah satu prinsip extreme programming (XP) yang terkenal adalah [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it). Disarankan oleh XP untuk tidak menambahkan fungsionalitas sampai benar-benar diperlukan.
+
 Contohnya, pada package `before`.
 
 Requirement dari client adalah Price bisa memiliki Currency antara IDR atau USD.
