@@ -5,6 +5,10 @@ import java.util.Vector;
 public class Semesters {
 	private Vector<Semester> semesters;
 	
+	public Semesters() {
+		this.semesters = new Vector<Semester>();
+	}
+
 	public boolean add(Semester s) {
 		if(!isLabelUnique(s.getLabel())) {
 			throw new IllegalArgumentException("label must be unique");
@@ -16,8 +20,8 @@ public class Semesters {
 		return semesters.size();
 	}
 	
-	public boolean removeAtIndex(int idx) {
-		return semesters.removeElement(idx);
+	public void removeAtIndex(int idx) {
+		semesters.removeElementAt(idx);
 	}
 	
 	public void show() {
