@@ -26,4 +26,4 @@ Untuk method create, delete, dan bagian code input menu. Kita dapat melihat terd
 
 ### Tambahan
 
-Refactor pada contoh `SemesterMenu` ini belum selesai. Terdapat smell Large Class yang akan diurus di topik yang bersangkutan.
+Refactor pada contoh `SemesterMenu` ini belum selesai. Terdapat smell Large Class yang akan diurus [disini](../large_class).
