@@ -16,4 +16,6 @@ Selain itu, terdapat juga field `type` menggunakan String. Padahal value `type` 
 
 Dilakukan [Extract Class](https://sourcemaking.com/refactoring/extract-class) pada `name`, dibuatkan class baru bernama [FullName](after/FullName.java). Kemudian [replace data value with object](https://sourcemaking.com/refactoring/replace-data-value-with-object) pada field `name` di class Mahasiswa.
 
+Untuk integer `dayOfBirth`, `monthOfBirth`, dan `yearOfBirth`, kita ganti menggunakan class java.util.Date bawaan dari Java.
+
 Untuk logic Greeter, kita gunakan [replace type code with state/strategy](https://sourcemaking.com/refactoring/replace-type-code-with-state-strategy).
