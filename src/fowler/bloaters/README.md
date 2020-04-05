@@ -6,4 +6,4 @@ Semua smell di dalam grup ini berkaitan dengan bagian code yang terlalu gemuk. B
 - [Large Class](large_class)
 - [Primitive Obsession](primitive_obsession)
 - [Long Parameter List](long_parameter_list)
-- Data Clumps
+- [Data Clumps](data_clumps)
