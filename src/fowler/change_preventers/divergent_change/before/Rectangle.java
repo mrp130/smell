@@ -5,7 +5,7 @@ public class Rectangle {
 	private int height;
 	
 	public Rectangle(int width, int height) {
-		if(width == 0 || height == 0) {
+		if(width <= 0 || height <= 0) {
 			throw new IllegalArgumentException("width and height must be greater than zero");
 		}
 		
