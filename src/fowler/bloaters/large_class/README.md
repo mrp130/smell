@@ -4,7 +4,9 @@
 
 ### Penjelasan Smell
 
-Smell ini terjadi ketika ada sebuah class melanggar [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle). Terdapat terlalu banyak jenis tanggungjawab yang dilakukan oleh satu class.
+Smell ini terjadi ketika ada sebuah class yang memiliki terlalu banyak method dan/atau line of code. 
+
+Code yang mengandung Large Class berpotensi melanggar [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle) bila terdapat terlalu banyak jenis tanggungjawab yang dilakukan oleh satu class. Bila Large Class disertai dengan pelanggaran SRP, maka terjadi juga smell Divergent Change.
 
 Pada contoh [SemesterMenu.java](before/SemesterMenu.java), class ini bukan hanya berurusan dengan menu dan input console untuk CRUD semester saja. Class ini juga pegang kendali untuk pembuatan vector semester. Class ini juga terbebani dengan banyaknya variasi cara input di method `getDateInput`, `getIntInput`, dan `getStringInput`.
 
