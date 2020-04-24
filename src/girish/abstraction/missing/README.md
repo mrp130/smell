@@ -31,3 +31,7 @@ Perhatikan [Book.java](before/Book.java) pada package before. Terdapat String IS
 #### Penyelesaian
 
 ISBN diekstrak menjadi hirarki baru. [ISBN.java](after/ISBN.java) sebagai parent-nya dan diturunkan menjadi [ISBN10](after/ISBN10.java) dan [ISBN13](after/ISBN13.java). Agar switch statement lebih rapi, dibuat [ISBNFactory](after/ISBNFactory.java) untuk digunakan oleh class [Book](after/Book.java).
+
+### When to Ignore
+
+Smell ini tidak perlu di-refactor bila malah menyebabkan over-engineering.
