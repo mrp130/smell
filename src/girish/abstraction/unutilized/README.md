@@ -1,6 +1,6 @@
 # Unutilized Abstraction
 
-Smell ini terjadi ada class atau interface yang tidak pernah digunakan di dalam project. Smell ini mirip dengan dead code Martin Fowler.
+Smell ini terjadi ketika ada class atau interface yang tidak pernah digunakan di dalam project. Smell ini mirip dengan dead code Martin Fowler.
 
 Girish et al. menggolongkannya dalam dua jenis:
 
