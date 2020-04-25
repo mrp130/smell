@@ -1,6 +1,6 @@
 # Multifaceted Abstraction
 
-Smell ini terjadi class memiliki lebih dari satu tanggungjawab (violasi SRP). 
+Smell ini terjadi ketika ada class yang memiliki lebih dari satu tanggungjawab (violasi SRP). 
 
 Smell ini mirip dengan smell divergent change Martin Fowler. Biasanya divergent change disertai juga dengan smell large class.
 
