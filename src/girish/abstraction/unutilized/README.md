@@ -2,7 +2,7 @@
 
 Smell ini terjadi ketika ada class atau interface yang tidak pernah digunakan di dalam project. Smell ini mirip dengan dead code Martin Fowler.
 
-Girish et al. menggolongkannya dalam dua jenis:
+Suryanarayana et al. menggolongkannya dalam dua jenis:
 
 - Unreferenced abstractions: concrete class yang tidak pernah dipakai.
 - Orphan abstractions: interface/abstract class yang tidak pernah diturunkan.

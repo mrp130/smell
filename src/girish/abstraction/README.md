@@ -14,4 +14,4 @@ Semua smell di dalam grup ini berkaitan dengan kesalahan dalam mendesain abstrak
 
 ---
 
-Repository ini hanyalah rangkuman dari buku Girish et al. dengan sedikit tambahan informasi lain. Diharapkan mahasiswa juga membaca sumber aslinya pada bab 3 halaman 21 - 60.
+Repository ini hanyalah rangkuman dari buku Suryanarayana et al. dengan sedikit tambahan informasi lain. Diharapkan mahasiswa juga membaca sumber aslinya pada bab 3 halaman 21 - 60.

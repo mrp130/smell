@@ -1,6 +1,6 @@
-# Girish et al. Code Smells
+# Suryanarayana et al. Code Smells
 
-Untuk pembagian materi, kita menggunakan pengelompokan group smell yang telah dibuat oleh Girish et al. di bukunya.
+Untuk pembagian materi, kita menggunakan pengelompokan group smell yang telah dibuat oleh Girish Suryanarayana et al. di bukunya.
 
 ![Girish smell groups](all_smell.png)
 

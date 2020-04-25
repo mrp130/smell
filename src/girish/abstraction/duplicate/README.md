@@ -2,7 +2,7 @@
 
 Smell ini terjadi ketika ada abstraksi (class/interface) yang kembar. Mirip dengan smell `alternative classes with different interfaces` milik Martin Fowler.
 
-Girish et al. membagi dua jenis:
+Suryanarayana et al. membagi dua jenis:
 
 - **Identical name**: nama mirip, behavior beda. Sebaiknya dipertimbangkan nama lain yang lebih cocok agar tidak ambigu.
 - **Identical implementation**: behavior sama. Dipertimbangkan untuk digabung.
