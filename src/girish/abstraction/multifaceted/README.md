@@ -18,6 +18,6 @@ Perhatikan class [Rectangle](before/Rectangle.java) di package `before`. Disana 
 
 Pada umumnya, domain logic dan presentation logic dipisah. Kita bisa berargumen bahwa class Rectangle memiliki dua tanggungjawab, yaitu mengurus kalkulasi Rectangle dan juga mengatur tampilan Rectangle ke dalam console.
 
-### Penyelesaian
+#### Penyelesaian
 
 Kita pindahkan method `print` di class `Rectangle` ke class yang baru. Karena di `print` juga terdapat smell primitive obsession, sekalian kita buatkan struktur baru menggunakan strategy design pattern. Perhatikan hasil refactor-nya di package `after`.
