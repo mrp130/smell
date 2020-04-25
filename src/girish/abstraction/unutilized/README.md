@@ -1,6 +1,6 @@
 # Unutilized Abstraction
 
-Smell ini terjadi ada class atau interface yang tidak pernah digunakan di dalam project.
+Smell ini terjadi ada class atau interface yang tidak pernah digunakan di dalam project. Smell ini mirip dengan dead code Martin Fowler.
 
 Girish et al. menggolongkannya dalam dua jenis:
 
@@ -17,7 +17,7 @@ Girish et al. menggolongkannya dalam dua jenis:
 
 Class/interface dihapus.
 
-Bila class/interface tersebut merupakan public library dan Anda belum mau menaikkan major version (karena menghapus class = breaking changes), maka Anda bisa menandai class/interface itu sebagai `deprecated`. Dengan menandai `deprecated`, Anda memperingatkan developer lain yang menggunakan library ini, bahwa bagian code tersebut akan dihapus di versi yang akan mendatang.
+Untuk kasus public library/framework yang belum mau dinaikkan major version-nya (karena menghapus class = breaking changes), maka Anda bisa menandai class/interface itu sebagai `deprecated`. Dengan menandai `deprecated`, Anda memperingatkan developer lain yang menggunakan library ini, bahwa bagian code tersebut akan dihapus di versi yang akan mendatang.
 
 Di Java, cara menandai `deprecated` adalah tinggal menggunakan annotation `@Deprecated`. Contoh:
 
