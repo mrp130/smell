@@ -1,4 +1,4 @@
-# Smell
+# COMP6106 - Code Reengineering
 
 Repository ini dibuat untuk keperluan materi online class COMP6106 - Code Reengineering, kelas LE01.
 Materi COMP6106 bersumber dari:
