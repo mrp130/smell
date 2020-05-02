@@ -11,3 +11,4 @@ Semua test case dalam repository ini menggunakan JUnit 5.
 ### Penjelasan Smell
 
 - [Abstraction](abstraction)
+- [Encapsulation](encapsulation)
