@@ -4,7 +4,7 @@
 
 ### Penjelasan Smell
 
-Terdapat pemakaian switch atau if-else untuk menentukan alur operasi.
+Terdapat pemakaian switch atau if-else untuk menentukan operasi pada variasi tipe-tipe tertentu.
 
 Tidak semua switch atau if-else itu berbahaya. Perlu dipertimbangkan apakah akan terjadi violasi terhadap OCP ([Open Closed Principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)).
 
