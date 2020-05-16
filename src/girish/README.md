@@ -12,3 +12,4 @@ Semua test case dalam repository ini menggunakan JUnit 5.
 
 - [Abstraction](abstraction)
 - [Encapsulation](encapsulation)
+- [Modularization](modularization)

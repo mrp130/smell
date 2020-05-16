@@ -14,6 +14,8 @@ Code smell dari Martin Fowler akan dipelajari dan diuji di UTS. Code smell dari 
 
 ### Girish Suryanarayana, Ganesh Samarthyam and Tushar Sharma
 
+[Klik disini untuk pembahasan smell Girish](src/girish)
+
 Buku: Suryanarayana, Girish, Ganesh Samarthyam, and Tushar Sharma. Refactoring for software design smells: managing technical debt. Morgan Kaufmann, 2014.
 
 Code smell dari buku ini akan dipelajari dan diuji di UAS.
